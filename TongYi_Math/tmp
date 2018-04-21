@@ -1,0 +1,1782 @@
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex)
+ restricted \write18 enabled.
+entering extended mode
+(./alter_ego.tex
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/ctex/ctexbook.cls
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3-code.tex)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def))
+Document Class: ctexbook 2016/02/02 v2.3 Chinese adapter for class book (CTEX)
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/ctex/ctexhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/ctex/ctexpatch.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fix-cm.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.def))
+(/usr/share/texlive/texmf-dist/tex/latex/ms/everysel.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/ctex/config/ctexopts.cfg)
+*************************************************
+* ctex warning: "deprecated-option"
+* 
+* Option `nofonts' is deprecated.
+* Option `fontset=none' is set. It is better to use fontset option.
+*************************************************
+*************************************************
+* ctex warning: "deprecated-option"
+* 
+* Option `fancyhdr' is deprecated.
+* `fancyhdr' package is loaded.
+*************************************************
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk10.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/ctex/engine/ctex-engine-xetex.def
+(/usr/share/texlive/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/euenc/eu1enc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/euenc/eu1lmr.fd))
+(/usr/share/texlive/texmf-dist/tex/xelatex/xunicode/xunicode.sty
+(/usr/share/texmf/tex/latex/tipa/t3enc.def
+(/usr/share/texlive/texmf-dist/tex/latex/euenc/eu1lmss.fd))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/xelatex/xetex-def/xetex.def
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty)))))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/xelatex/xecjk/xunicode-addon.sty)
+(/usr/share/texlive/texmf-dist/tex/xelatex/xunicode/xunicode.sty
+*** Reloading Xunicode for encoding 'EU1' ***
+) (/usr/share/texlive/texmf-dist/tex/xelatex/xecjk/xunicode-extra.def)
+(/usr/share/texlive/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg))
+(/usr/share/texlive/texmf-dist/tex/xelatex/xecjk/xeCJKfntef.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ulem/ulem.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/environ/environ.sty
+(/usr/share/texlive/texmf-dist/tex/latex/trimspaces/trimspaces.sty))
+(/usr/share/texmf/tex/latex/CJK/CJKfntef.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/zhnumber/zhnumber.sty
+(/usr/share/texlive/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chinese-book.d
+ef (/usr/share/texlive/texmf-dist/tex/latex/ctex/config/ctex-name-utf8.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/ctex/ctex-c5size.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/ctex/config/ctex.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty)
+*************************************************
+* ctex warning: "deprecated-command"
+* 
+* Command \CTEXsetup is deprecated.
+* \ctexset { chapter = { format={\raggedright } } } is set.
+*************************************************
+*************************************************
+* ctex warning: "deprecated-command"
+* 
+* Command \CTEXsetup is deprecated.
+* \ctexset { section = { format={\Large \bfseries } } } is set.
+*************************************************
+*************************************************
+* ctex warning: "deprecated-command"
+* 
+* Command \CTEXsetup is deprecated.
+* \ctexset { subsection = { format={\large \bfseries } } } is set.
+*************************************************
+*************************************************
+* ctex warning: "deprecated-command"
+* 
+* Command \CTEXsetup is deprecated.
+* \ctexset { subsubsection = { format={\normalsize \bfseries } } } is set.
+*************************************************
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def)
+(/usr/share/texmf/tex/latex/lm/t1lmr.fd))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/subfigure/subfigure.sty
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/share/texlive/texmf-dist/tex/latex/subfigure/subfigure.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg)))
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty))))))
+(./breakcites.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/tocstyle.sty
+
+Package tocstyle Warning: THIS IS AN ALPHA VERSION!
+(tocstyle)                USAGE OF THIS VERSION IS ON YOUR OWN RISK!
+(tocstyle)                EVERYTHING MAY HAPPEN!
+(tocstyle)                EVERYTHING MAY CHANGE IN FUTURE!
+(tocstyle)                THERE IS NO SUPPORT, IF YOU USE THIS PACKAGE!
+(tocstyle)                Maybe it would be better, not to load this package.
+
+)
+exclude: 
+exclude: 
+exclude: 
+exclude: 
+exclude: 
+exclude: 
+exclude: 
+(/usr/share/texlive/texmf-dist/tex/latex/tools/bm.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/base/makeidx.sty)
+Writing index file alter_ego.idx
+(/usr/share/texlive/texmf-dist/tex/latex/tocbibind/tocbibind.sty
+
+Package tocbibind Note: Using chapter style headings, unless overridden.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/placeins/placeins.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithm.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithmic.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/ppxetex.def))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty))
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+
+Package hyperref Warning: Unexpected value for option `hidelinks'
+(hyperref)                is ignored on input line 4319.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/backref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty))
+
+Package hyperref Message: Driver (autodetected): hxetex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/stringenc.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/bookmark.sty
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/bkm-dvipdfm.def))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/zref-abspage.sty
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/zref-base.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/draftwatermark/draftwatermark.sty
+(/usr/share/texlive/texmf-dist/tex/latex/everypage/everypage.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/background/background.sty
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex)))
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.t
+ex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+(/usr/share/texlive/texmf-dist/tex/latex/ms/everyshi.sty))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex))
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.t
+ex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-xetex.def
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-dvipdfmx.def
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.de
+f))))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
+tex)) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonomet
+ric.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.cod
+e.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
+thmetics.code.tex)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
+x)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.
+code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.te
+x)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
+ode.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformation
+s.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.t
+ex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.te
+x)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.
+tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.te
+x)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.c
+ode.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.
+tex)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
+.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
+.sty)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarytopaths.code.tex)))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/afterpage.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/glossaries/base/glossaries.sty
+(/usr/share/texlive/texmf-dist/tex/latex/mfirstuc/mfirstuc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/textcase/textcase.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/xfor/xfor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/datatool/datatool-base.sty
+(/usr/share/texlive/texmf-dist/tex/latex/substr/substr.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/datatool/datatool-fp.sty
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp.sty
+`Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
+(/usr/share/texlive/texmf-dist/tex/latex/fp/defpattern.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-basic.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-addons.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-snap.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-exp.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-trigo.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-pas.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-random.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-eqn.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-upn.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-eval.sty))))
+(/usr/share/texlive/texmf-dist/tex/latex/glossaries/base/glossaries-compatible-
+307.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-hypernav.st
+y) (/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-list.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-long.sty
+(/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-super.sty
+(/usr/share/texlive/texmf-dist/tex/latex/supertabular/supertabular.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-tree.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/imakeidx/imakeidx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/xpatch/xpatch.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty))
+Writing index file alter_ego.idx
+\@input{math_symbol.aux}
+(./math_symbol.tex)
+\@input{terminology.aux}
+(./terminology.tex) (./alter_ego.aux) (/usr/share/texmf/tex/latex/tipa/t3cmr.fd
+) ABD: EverySelectfont initializing macros
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty))
+*geometry* detected driver: dvips
+ABD: EveryShipout initializing macros [1] [2] (./alter_ego.toc
+number indent by \l@... (toc, 0):  0.0pt
+text indent by \l@... (toc, 0):  15.80905pt
+number indent by parent (toc, 0):  0.0pt
+text indent calculated (toc, 0): 41.31433pt
+number indent calculated (toc, 0): 0.0pt
+number indent by \l@... (toc, 0):  0.0pt
+text indent by \l@... (toc, 0):  15.80905pt
+number indent by parent (toc, 0):  0.0pt
+text indent calculated (toc, 0): 41.31433pt
+number indent calculated (toc, 0): 0.0pt
+number indent by \l@... (toc, 0):  0.0pt
+text indent by \l@... (toc, 0):  15.80905pt
+number indent by parent (toc, 0):  0.0pt
+text indent calculated (toc, 0): 41.31433pt
+number indent calculated (toc, 0): 0.0pt
+number indent by \l@... (toc, -1):  -31.6181pt
+text indent by \l@... (toc, -1):  31.6181pt
+number indent by parent (toc, -1):  -31.6181pt
+text indent calculated (toc, -1): 31.6181pt
+number indent calculated (toc, -1): 0.0pt
+number indent by \l@... (toc, 0):  0.0pt
+text indent by \l@... (toc, 0):  15.80905pt
+number indent by parent (toc, 0):  0.0pt
+text indent calculated (toc, 0): 41.31433pt
+number indent calculated (toc, 0): 0.0pt
+number indent by \l@... (toc, -1):  -31.6181pt
+text indent by \l@... (toc, -1):  31.6181pt
+number indent by parent (toc, -1):  -31.6181pt
+text indent calculated (toc, -1): 31.6181pt
+number indent calculated (toc, -1): 0.0pt
+number indent by \l@... (toc, -1):  -31.6181pt
+text indent by \l@... (toc, -1):  31.6181pt
+number indent by parent (toc, -1):  -31.6181pt
+text indent calculated (toc, -1): 31.6181pt
+number indent calculated (toc, -1): 0.0pt
+number indent by \l@... (toc, 0):  0.0pt
+text indent by \l@... (toc, 0):  15.80905pt
+number indent by parent (toc, 0):  0.0pt
+text indent calculated (toc, 0): 41.31433pt
+number indent calculated (toc, 0): 0.0pt
+number indent by \l@... (toc, 1):  15.80905pt
+text indent by \l@... (toc, 1):  24.24057pt
+number indent by parent (toc, 1):  41.31433pt
+text indent calculated (toc, 1): 18.73662pt
+number indent calculated (toc, 1): 41.31433pt
+number indent by \l@... (toc, 2):  40.04962pt
+text indent by \l@... (toc, 2):  33.72594pt
+number indent by parent (toc, 2):  60.05095pt
+text indent calculated (toc, 2): 32.20355pt
+number indent calculated (toc, 2): 60.05095pt
+number indent by \l@... (toc, 2):  40.04962pt
+text indent by \l@... (toc, 2):  33.72594pt
+number indent by parent (toc, 2):  60.05095pt
+text indent calculated (toc, 2): 32.20355pt
+number indent calculated (toc, 2): 60.05095pt
+number indent by \l@... (toc, 2):  40.04962pt
+text indent by \l@... (toc, 2):  33.72594pt
+number indent by parent (toc, 2):  60.05095pt
+text indent calculated (toc, 2): 32.20355pt
+number indent calculated (toc, 2): 60.05095pt
+number indent by \l@... (toc, 2):  40.04962pt
+text indent by \l@... (toc, 2):  33.72594pt
+number indent by parent (toc, 2):  60.05095pt
+text indent calculated (toc, 2): 32.20355pt
+number indent calculated (toc, 2): 60.05095pt
+number indent by \l@... (toc, 2):  40.04962pt
+text indent by \l@... (toc, 2):  33.72594pt
+number indent by parent (toc, 2):  60.05095pt
+text indent calculated (toc, 2): 32.20355pt
+number indent calculated (toc, 2): 60.05095pt
+number indent by \l@... (toc, 2):  40.04962pt
+text indent by \l@... (toc, 2):  33.72594pt
+number indent by parent (toc, 2):  60.05095pt
+text indent calculated (toc, 2): 32.20355pt
+number indent calculated (toc, 2): 60.05095pt
+number indent by \l@... (toc, 2):  40.04962pt
+text indent by \l@... (toc, 2):  33.72594pt
+number indent by parent (toc, 2):  60.05095pt
+text indent calculated (toc, 2): 32.20355pt
+number indent calculated (toc, 2): 60.05095pt
+number indent by \l@... (toc, 2):  40.04962pt
+text indent by \l@... (toc, 2):  33.72594pt
+number indent by parent (toc, 2):  60.05095pt
+text indent calculated (toc, 2): 32.20355pt
+number indent calculated (toc, 2): 60.05095pt
+number indent by \l@... (toc, 2):  40.04962pt
+text indent by \l@... (toc, 2):  33.72594pt
+number indent by parent (toc, 2):  60.05095pt
+text indent calculated (toc, 2): 32.20355pt
+number indent calculated (toc, 2): 60.05095pt
+[3]
+number indent by \l@... (toc, 2):  40.04962pt
+text indent by \l@... (toc, 2):  33.72594pt
+number indent by parent (toc, 2):  60.05095pt
+text indent calculated (toc, 2): 32.20355pt
+number indent calculated (toc, 2): 60.05095pt
+number indent by \l@... (toc, 2):  40.04962pt
+text indent by \l@... (toc, 2):  33.72594pt
+number indent by parent (toc, 2):  60.05095pt
+text indent calculated (toc, 2): 32.20355pt
+number indent calculated (toc, 2): 60.05095pt
+number indent by \l@... (toc, 2):  40.04962pt
+text indent by \l@... (toc, 2):  33.72594pt
+number indent by parent (toc, 2):  60.05095pt
+text indent calculated (toc, 2): 32.20355pt
+number indent calculated (toc, 2): 60.05095pt
+number indent by \l@... (toc, 2):  40.04962pt
+text indent by \l@... (toc, 2):  33.72594pt
+number indent by parent (toc, 2):  60.05095pt
+text indent calculated (toc, 2): 32.20355pt
+number indent calculated (toc, 2): 60.05095pt
+number indent by \l@... (toc, 2):  40.04962pt
+text indent by \l@... (toc, 2):  33.72594pt
+number indent by parent (toc, 2):  60.05095pt
+text indent calculated (toc, 2): 32.20355pt
+number indent calculated (toc, 2): 60.05095pt
+number indent by \l@... (toc, 2):  40.04962pt
+text indent by \l@... (toc, 2):  33.72594pt
+number indent by parent (toc, 2):  60.05095pt
+text indent calculated (toc, 2): 32.20355pt
+number indent calculated (toc, 2): 60.05095pt
+number indent by \l@... (toc, 2):  40.04962pt
+text indent by \l@... (toc, 2):  33.72594pt
+number indent by parent (toc, 2):  60.05095pt
+text indent calculated (toc, 2): 32.20355pt
+number indent calculated (toc, 2): 60.05095pt
+number indent by \l@... (toc, 2):  40.04962pt
+text indent by \l@... (toc, 2):  33.72594pt
+number indent by parent (toc, 2):  60.05095pt
+text indent calculated (toc, 2): 32.20355pt
+number indent calculated (toc, 2): 60.05095pt
+number indent by \l@... (toc, 2):  40.04962pt
+text indent by \l@... (toc, 2):  33.72594pt
+number indent by parent (toc, 2):  60.05095pt
+text indent calculated (toc, 2): 32.20355pt
+number indent calculated (toc, 2): 60.05095pt
+number indent by \l@... (toc, 2):  40.04962pt
+text indent by \l@... (toc, 2):  33.72594pt
+number indent by parent (toc, 2):  60.05095pt
+text indent calculated (toc, 2): 32.20355pt
+number indent calculated (toc, 2): 60.05095pt
+number indent by \l@... (toc, 2):  40.04962pt
+text indent by \l@... (toc, 2):  33.72594pt
+number indent by parent (toc, 2):  60.05095pt
+text indent calculated (toc, 2): 32.20355pt
+number indent calculated (toc, 2): 60.05095pt
+number indent by \l@... (toc, 2):  40.04962pt
+text indent by \l@... (toc, 2):  33.72594pt
+number indent by parent (toc, 2):  60.05095pt
+text indent calculated (toc, 2): 32.20355pt
+number indent calculated (toc, 2): 60.05095pt
+number indent by \l@... (toc, 2):  40.04962pt
+text indent by \l@... (toc, 2):  33.72594pt
+number indent by parent (toc, 2):  60.05095pt
+text indent calculated (toc, 2): 32.20355pt
+number indent calculated (toc, 2): 60.05095pt
+number indent by \l@... (toc, 2):  40.04962pt
+text indent by \l@... (toc, 2):  33.72594pt
+number indent by parent (toc, 2):  60.05095pt
+text indent calculated (toc, 2): 32.20355pt
+number indent calculated (toc, 2): 60.05095pt
+number indent by \l@... (toc, 2):  40.04962pt
+text indent by \l@... (toc, 2):  33.72594pt
+number indent by parent (toc, 2):  60.05095pt
+text indent calculated (toc, 2): 32.20355pt
+number indent calculated (toc, 2): 60.05095pt
+number indent by \l@... (toc, 2):  40.04962pt
+text indent by \l@... (toc, 2):  33.72594pt
+number indent by parent (toc, 2):  60.05095pt
+text indent calculated (toc, 2): 32.20355pt
+number indent calculated (toc, 2): 60.05095pt
+number indent by \l@... (toc, 2):  40.04962pt
+text indent by \l@... (toc, 2):  33.72594pt
+number indent by parent (toc, 2):  60.05095pt
+text indent calculated (toc, 2): 32.20355pt
+number indent calculated (toc, 2): 60.05095pt
+number indent by \l@... (toc, 1):  15.80905pt
+text indent by \l@... (toc, 1):  24.24057pt
+number indent by parent (toc, 1):  41.31433pt
+text indent calculated (toc, 1): 18.73662pt
+number indent calculated (toc, 1): 41.31433pt
+number indent by \l@... (toc, 2):  40.04962pt
+text indent by \l@... (toc, 2):  33.72594pt
+number indent by parent (toc, 2):  60.05095pt
+text indent calculated (toc, 2): 32.20355pt
+number indent calculated (toc, 2): 60.05095pt
+number indent by \l@... (toc, 2):  40.04962pt
+text indent by \l@... (toc, 2):  33.72594pt
+number indent by parent (toc, 2):  60.05095pt
+text indent calculated (toc, 2): 32.20355pt
+number indent calculated (toc, 2): 60.05095pt
+number indent by \l@... (toc, 2):  40.04962pt
+text indent by \l@... (toc, 2):  33.72594pt
+number indent by parent (toc, 2):  60.05095pt
+text indent calculated (toc, 2): 32.20355pt
+number indent calculated (toc, 2): 60.05095pt
+number indent by \l@... (toc, 2):  40.04962pt
+text indent by \l@... (toc, 2):  33.72594pt
+number indent by parent (toc, 2):  60.05095pt
+text indent calculated (toc, 2): 32.20355pt
+number indent calculated (toc, 2): 60.05095pt
+number indent by \l@... (toc, 2):  40.04962pt
+text indent by \l@... (toc, 2):  33.72594pt
+number indent by parent (toc, 2):  60.05095pt
+text indent calculated (toc, 2): 32.20355pt
+number indent calculated (toc, 2): 60.05095pt
+number indent by \l@... (toc, 2):  40.04962pt
+text indent by \l@... (toc, 2):  33.72594pt
+number indent by parent (toc, 2):  60.05095pt
+text indent calculated (toc, 2): 32.20355pt
+number indent calculated (toc, 2): 60.05095pt
+number indent by \l@... (toc, 2):  40.04962pt
+text indent by \l@... (toc, 2):  33.72594pt
+number indent by parent (toc, 2):  60.05095pt
+text indent calculated (toc, 2): 32.20355pt
+number indent calculated (toc, 2): 60.05095pt
+number indent by \l@... (toc, 2):  40.04962pt
+text indent by \l@... (toc, 2):  33.72594pt
+number indent by parent (toc, 2):  60.05095pt
+text indent calculated (toc, 2): 32.20355pt
+number indent calculated (toc, 2): 60.05095pt
+number indent by \l@... (toc, 2):  40.04962pt
+text indent by \l@... (toc, 2):  33.72594pt
+number indent by parent (toc, 2):  60.05095pt
+text indent calculated (toc, 2): 32.20355pt
+number indent calculated (toc, 2): 60.05095pt
+number indent by \l@... (toc, 2):  40.04962pt
+text indent by \l@... (toc, 2):  33.72594pt
+number indent by parent (toc, 2):  60.05095pt
+text indent calculated (toc, 2): 32.20355pt
+number indent calculated (toc, 2): 60.05095pt
+number indent by \l@... (toc, 2):  40.04962pt
+text indent by \l@... (toc, 2):  33.72594pt
+number indent by parent (toc, 2):  60.05095pt
+text indent calculated (toc, 2): 32.20355pt
+number indent calculated (toc, 2): 60.05095pt
+number indent by \l@... (toc, 2):  40.04962pt
+text indent by \l@... (toc, 2):  33.72594pt
+number indent by parent (toc, 2):  60.05095pt
+text indent calculated (toc, 2): 32.20355pt
+number indent calculated (toc, 2): 60.05095pt
+number indent by \l@... (toc, 2):  40.04962pt
+text indent by \l@... (toc, 2):  33.72594pt
+number indent by parent (toc, 2):  60.05095pt
+text indent calculated (toc, 2): 32.20355pt
+number indent calculated (toc, 2): 60.05095pt
+number indent by \l@... (toc, 2):  40.04962pt
+text indent by \l@... (toc, 2):  33.72594pt
+number indent by parent (toc, 2):  60.05095pt
+text indent calculated (toc, 2): 32.20355pt
+number indent calculated (toc, 2): 60.05095pt
+number indent by \l@... (toc, 2):  40.04962pt
+text indent by \l@... (toc, 2):  33.72594pt
+number indent by parent (toc, 2):  60.05095pt
+text indent calculated (toc, 2): 32.20355pt
+number indent calculated (toc, 2): 60.05095pt
+
+LaTeX Font Warning: Font shape `EU1/AdobeSongStd(0)/m/sl' undefined
+(Font)              using `EU1/AdobeSongStd(0)/m/n' instead on input line 52.
+
+[4]
+number indent by \l@... (toc, 2):  40.04962pt
+text indent by \l@... (toc, 2):  33.72594pt
+number indent by parent (toc, 2):  60.05095pt
+text indent calculated (toc, 2): 32.20355pt
+number indent calculated (toc, 2): 60.05095pt
+number indent by \l@... (toc, 2):  40.04962pt
+text indent by \l@... (toc, 2):  33.72594pt
+number indent by parent (toc, 2):  60.05095pt
+text indent calculated (toc, 2): 32.20355pt
+number indent calculated (toc, 2): 60.05095pt
+number indent by \l@... (toc, 2):  40.04962pt
+text indent by \l@... (toc, 2):  33.72594pt
+number indent by parent (toc, 2):  60.05095pt
+text indent calculated (toc, 2): 32.20355pt
+number indent calculated (toc, 2): 60.05095pt
+number indent by \l@... (toc, 2):  40.04962pt
+text indent by \l@... (toc, 2):  33.72594pt
+number indent by parent (toc, 2):  60.05095pt
+text indent calculated (toc, 2): 32.20355pt
+number indent calculated (toc, 2): 60.05095pt
+number indent by \l@... (toc, 2):  40.04962pt
+text indent by \l@... (toc, 2):  33.72594pt
+number indent by parent (toc, 2):  60.05095pt
+text indent calculated (toc, 2): 32.20355pt
+number indent calculated (toc, 2): 60.05095pt
+number indent by \l@... (toc, 2):  40.04962pt
+text indent by \l@... (toc, 2):  33.72594pt
+number indent by parent (toc, 2):  60.05095pt
+text indent calculated (toc, 2): 32.20355pt
+number indent calculated (toc, 2): 60.05095pt
+number indent by \l@... (toc, 2):  40.04962pt
+text indent by \l@... (toc, 2):  33.72594pt
+number indent by parent (toc, 2):  60.05095pt
+text indent calculated (toc, 2): 32.20355pt
+number indent calculated (toc, 2): 60.05095pt
+number indent by \l@... (toc, 2):  40.04962pt
+text indent by \l@... (toc, 2):  33.72594pt
+number indent by parent (toc, 2):  60.05095pt
+text indent calculated (toc, 2): 32.20355pt
+number indent calculated (toc, 2): 60.05095pt
+number indent by \l@... (toc, 2):  40.04962pt
+text indent by \l@... (toc, 2):  33.72594pt
+number indent by parent (toc, 2):  60.05095pt
+text indent calculated (toc, 2): 32.20355pt
+number indent calculated (toc, 2): 60.05095pt
+number indent by \l@... (toc, 2):  40.04962pt
+text indent by \l@... (toc, 2):  33.72594pt
+number indent by parent (toc, 2):  60.05095pt
+text indent calculated (toc, 2): 32.20355pt
+number indent calculated (toc, 2): 60.05095pt
+number indent by \l@... (toc, 2):  40.04962pt
+text indent by \l@... (toc, 2):  33.72594pt
+number indent by parent (toc, 2):  60.05095pt
+text indent calculated (toc, 2): 32.20355pt
+number indent calculated (toc, 2): 60.05095pt
+number indent by \l@... (toc, 2):  40.04962pt
+text indent by \l@... (toc, 2):  33.72594pt
+number indent by parent (toc, 2):  60.05095pt
+text indent calculated (toc, 2): 32.20355pt
+number indent calculated (toc, 2): 60.05095pt
+number indent by \l@... (toc, 2):  40.04962pt
+text indent by \l@... (toc, 2):  33.72594pt
+number indent by parent (toc, 2):  60.05095pt
+text indent calculated (toc, 2): 32.20355pt
+number indent calculated (toc, 2): 60.05095pt
+number indent by \l@... (toc, 2):  40.04962pt
+text indent by \l@... (toc, 2):  33.72594pt
+number indent by parent (toc, 2):  60.05095pt
+text indent calculated (toc, 2): 32.20355pt
+number indent calculated (toc, 2): 60.05095pt
+number indent by \l@... (toc, -1):  -31.6181pt
+text indent by \l@... (toc, -1):  31.6181pt
+number indent by parent (toc, -1):  -31.6181pt
+text indent calculated (toc, -1): 31.6181pt
+number indent calculated (toc, -1): 0.0pt
+number indent by \l@... (toc, -1):  -31.6181pt
+text indent by \l@... (toc, -1):  31.6181pt
+number indent by parent (toc, -1):  -31.6181pt
+text indent calculated (toc, -1): 31.6181pt
+number indent calculated (toc, -1): 0.0pt
+number indent by \l@... (toc, 0):  0.0pt
+text indent by \l@... (toc, 0):  15.80905pt
+number indent by parent (toc, 0):  0.0pt
+text indent calculated (toc, 0): 41.31433pt
+number indent calculated (toc, 0): 0.0pt
+number indent by \l@... (toc, 0):  0.0pt
+text indent by \l@... (toc, 0):  15.80905pt
+number indent by parent (toc, 0):  0.0pt
+text indent calculated (toc, 0): 41.31433pt
+number indent calculated (toc, 0): 0.0pt
+) [5] (./preface.tex) (./website.tex [6]) (./notation.tex [7]
+(/usr/share/texmf/tex/latex/lm/t1lmss.fd)
+Overfull \hbox (21.07874pt too wide) in paragraph at lines 8--29
+[]$[]$ 
+
+Overfull \hbox (21.07874pt too wide) in paragraph at lines 31--48
+[]$[]$ 
+
+Underfull \vbox (badness 10000) has occurred while \output is active [8]
+Overfull \hbox (21.07874pt too wide) in paragraph at lines 50--66
+[]$[]$ 
+
+Overfull \hbox (21.07874pt too wide) in paragraph at lines 68--80
+[]$[]$ 
+
+Underfull \vbox (badness 10000) has occurred while \output is active [9]
+Overfull \hbox (21.07874pt too wide) in paragraph at lines 82--99
+[]$[]$ 
+
+Overfull \hbox (21.07874pt too wide) in paragraph at lines 101--120
+[]$[]$ 
+
+Underfull \vbox (badness 10000) has occurred while \output is active [10]
+Overfull \hbox (21.07874pt too wide) in paragraph at lines 122--140
+[]$[]$ 
+
+Underfull \vbox (badness 10000) has occurred while \output is active [11])
+Overfull \hbox (21.07874pt too wide) in paragraph at lines 147--154
+[]$[]$
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--154
+
+[12] (./beginner.tex [1] (./Part1/introduction.tex [2]
+第一章
+(/usr/share/texmf/tex/latex/lm/omslmr.fd)
+(/usr/share/texmf/tex/latex/lm/omslmsy.fd) [3] <use  "pictures/20170926.jpg" >
+[4]) (./Part1/迷宫.tex [5]) (./Part1/数线段.tex [6] [7] [8]) (./Part1/马拉松.tex
+[9] [10]) [11]) (./elementary.tex [12] (./Part2/幻方.tex [13] [14])
+(./Part2/替身法.tex [15] [16]) (./Part2/裂项求和.tex [17] [18] [19]) (./Part2/等幂和.tex
+[20] [21]) (./Part2/恒等变形.tex [22] [23] [24] [25] [26] [27] [28] [29] [30]
+[31] [32]) (./Part2/连比.tex [33] [34]) (./Part2/因式分解.tex [35] [36] [37])
+(./Part2/绝对值.tex [38] [39] [40]) (./Part2/等幂和表示.tex [41] [42] [43] [44]
+[45] [46] [47] [48] [49] [50] [51]) (./Part2/多项式展开.tex [52] [53]))
+(./intermediate.tex [54] [55] (./Part3/algebra.tex) (./Part3/柯西不等式.tex [56]
+[57] [58] [59] [60] [61] [62] [63] [64] [65] [66] [67]) (./Part3/sos.tex
+[68] [69] [70] [71] [72] [73]) [74]
+第二章
+(./Part3/bank.tex (./Part3/def.tex [75]
+Underfull \hbox (badness 10000) in paragraph at lines 94--96
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--110
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--112
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--134
+[][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--134
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active [76]
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
+
+) [77] (./Part3/Bank/1998/Bulgaria.tex [78] [79]
+Underfull \hbox (badness 10000) in paragraph at lines 13--17
+
+[80]
+Underfull \hbox (badness 10000) in paragraph at lines 50--52
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--92
+
+[81]
+Underfull \hbox (badness 10000) in paragraph at lines 120--122
+
+[82]
+Underfull \hbox (badness 10000) in paragraph at lines 151--159
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--163
+
+[83]
+Underfull \hbox (badness 10000) in paragraph at lines 175--176
+
+[84]
+Underfull \hbox (badness 10000) in paragraph at lines 236--238
+
+[85] [86]
+Underfull \hbox (badness 10000) in paragraph at lines 297--305
+
+[87]
+Underfull \hbox (badness 10000) in paragraph at lines 327--336
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--348
+
+[88]
+Underfull \hbox (badness 10000) in paragraph at lines 384--386
+
+[89] [90]
+Underfull \hbox (badness 10000) in paragraph at lines 473--481
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 489--494
+
+[91] [92]
+Underfull \hbox (badness 10000) in paragraph at lines 552--557
+
+[93]
+Underfull \hbox (badness 10000) in paragraph at lines 618--623
+
+[94] [95]
+Underfull \hbox (badness 10000) in paragraph at lines 672--674
+
+[96]
+Underfull \hbox (badness 10000) in paragraph at lines 710--717
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 723--729
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 743--746
+
+[97] [98]
+Underfull \hbox (badness 10000) in paragraph at lines 806--810
+
+[99]
+Underfull \hbox (badness 10000) in paragraph at lines 867--871
+
+[100]) (./Part3/Bank/1998/Canada.tex [101] [102]
+Underfull \hbox (badness 10000) in paragraph at lines 14--17
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--37
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--57
+
+[103]
+Underfull \hbox (badness 10000) in paragraph at lines 70--72
+
+[104]
+Underfull \hbox (badness 10000) in paragraph at lines 110--114
+
+[105]
+Underfull \hbox (badness 10000) in paragraph at lines 134--140
+
+[106] [107]) (./Part3/Bank/1998/China.tex [108]
+Underfull \hbox (badness 10000) in paragraph at lines 12--14
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active [109]
+Underfull \hbox (badness 10000) in paragraph at lines 62--67
+
+[110]
+Underfull \hbox (badness 10000) in paragraph at lines 117--119
+
+[111] [112]
+Underfull \hbox (badness 10000) in paragraph at lines 170--173
+
+[113] [114]
+
+Package amsmath Warning: Foreign command \atopwithdelims;
+(amsmath)                \frac or \genfrac should be used instead
+(amsmath)                 on input line 275.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 278--282
+
+[115]
+Underfull \hbox (badness 10000) in paragraph at lines 315--318
+
+
+Underfull \vbox (badness 1960) has occurred while \output is active [116]
+Underfull \hbox (badness 10000) in paragraph at lines 342--345
+
+[117]
+Underfull \hbox (badness 10000) in paragraph at lines 394--396
+
+[118]
+Underfull \hbox (badness 10000) in paragraph at lines 436--438
+
+[119] [120]) (./Part3/Bank/1998/Czech.tex [121]
+Underfull \hbox (badness 10000) in paragraph at lines 13--15
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--48
+
+[122]
+Underfull \hbox (badness 10000) in paragraph at lines 59--62
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--83
+
+[123]
+Underfull \hbox (badness 10000) in paragraph at lines 108--114
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--132
+
+[124]
+Underfull \hbox (badness 10000) in paragraph at lines 155--157
+
+[125]
+Underfull \hbox (badness 10000) in paragraph at lines 183--185
+
+[126]
+Underfull \hbox (badness 10000) in paragraph at lines 248--250
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 264--273
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 281--288
+
+[127]
+Underfull \hbox (badness 10000) in paragraph at lines 294--300
+
+[128]
+Underfull \hbox (badness 10000) in paragraph at lines 332--333
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 356--359
+
+
+Underfull \vbox (badness 2035) has occurred while \output is active [129]
+Underfull \hbox (badness 10000) in paragraph at lines 379--383
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 401--402
+
+[130]
+Underfull \hbox (badness 10000) in paragraph at lines 440--444
+
+[131]
+Underfull \hbox (badness 10000) in paragraph at lines 455--462
+
+[132]
+Underfull \hbox (badness 10000) in paragraph at lines 483--489
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 508--510
+
+[133]
+Overfull \hbox (8.59152pt too wide) in paragraph at lines 531--534
+\T1/lmr/m/n/10.53937 ing to side $\OML/cmm/m/it/10.53937 AB:$ \T1/lmr/m/n/10.53
+937 Let $\OML/cmm/m/it/10.53937 r[]; r[]; r[]; r[]$ \T1/lmr/m/n/10.53937 be the
+ in-radii of tri-an-gles $\OML/cmm/m/it/10.53937 CAP; CBQ; CAQ; CBP;$
+
+Underfull \hbox (badness 10000) in paragraph at lines 547--552
+
+[134] [135]) (./Part3/Bank/1998/Hungary.tex [136]
+Underfull \hbox (badness 10000) in paragraph at lines 14--16
+
+[137]
+Underfull \hbox (badness 10000) in paragraph at lines 79--81
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--104
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--119
+
+[138]
+Underfull \hbox (badness 10000) in paragraph at lines 125--131
+
+[139]
+Underfull \hbox (badness 10000) in paragraph at lines 163--164
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--190
+
+
+Underfull \vbox (badness 2035) has occurred while \output is active [140]
+Underfull \hbox (badness 10000) in paragraph at lines 210--214
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+
+[141]
+Underfull \hbox (badness 10000) in paragraph at lines 271--275
+
+[142]
+Underfull \hbox (badness 10000) in paragraph at lines 286--293
+
+[143]
+Underfull \hbox (badness 10000) in paragraph at lines 314--320
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 339--341
+
+[144]
+Overfull \hbox (8.59152pt too wide) in paragraph at lines 362--365
+\T1/lmr/m/n/10.53937 ing to side $\OML/cmm/m/it/10.53937 AB:$ \T1/lmr/m/n/10.53
+937 Let $\OML/cmm/m/it/10.53937 r[]; r[]; r[]; r[]$ \T1/lmr/m/n/10.53937 be the
+ in-radii of tri-an-gles $\OML/cmm/m/it/10.53937 CAP; CBQ; CAQ; CBP;$
+
+Underfull \hbox (badness 10000) in paragraph at lines 378--383
+
+[145] [146]) (./Part3/Bank/1998/India.tex [147]
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--50
+
+[148]
+Underfull \hbox (badness 10000) in paragraph at lines 83--85
+
+[149]
+Underfull \hbox (badness 10000) in paragraph at lines 106--109
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--130
+
+[150]
+Underfull \hbox (badness 10000) in paragraph at lines 146--150
+
+[151]
+Underfull \hbox (badness 10000) in paragraph at lines 175--179
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--201
+
+[152]
+Underfull \hbox (badness 10000) in paragraph at lines 217--220
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--229
+
+[153]
+Underfull \hbox (badness 10000) in paragraph at lines 253--259
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 274--279
+
+[154]
+Underfull \hbox (badness 10000) in paragraph at lines 323--325
+
+[155]
+Underfull \hbox (badness 10000) in paragraph at lines 359--366
+
+[156] [157]
+Underfull \hbox (badness 10000) in paragraph at lines 408--410
+
+[158] [159]) (./Part3/Bank/1998/Iran.tex [160]
+Underfull \hbox (badness 10000) in paragraph at lines 14--17
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--55
+
+[161]
+Underfull \hbox (badness 10000) in paragraph at lines 61--67
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--81
+
+[162]
+Underfull \hbox (badness 10000) in paragraph at lines 97--100
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--111
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--122
+
+[163]
+Underfull \hbox (badness 10000) in paragraph at lines 135--137
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--163
+
+[164] [165]
+Underfull \hbox (badness 10000) in paragraph at lines 199--201
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--222
+
+[166]
+Underfull \hbox (badness 10000) in paragraph at lines 235--238
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 269--272
+
+[167]
+Underfull \hbox (badness 10000) in paragraph at lines 294--296
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 311--315
+
+[168] [169]
+Overfull \hbox (20.81465pt too wide) in paragraph at lines 351--354
+\T1/lmr/m/n/10.53937 in ra-tio-nal num-bers $\OML/cmm/m/it/10.53937 x[]; x[]; x
+[]; x[]$\T1/lmr/m/n/10.53937 , and then step from the ori-gin to $\OT1/cmr/m/n/
+10.53937 (\OML/cmm/m/it/10.53937 a\OT1/cmr/m/n/10.53937 /2\OML/cmm/m/it/10.5393
+7 ; x[]; x[]; x[]; x[]\OT1/cmr/m/n/10.53937 )$
+
+Underfull \hbox (badness 10000) in paragraph at lines 367--369
+
+[170]
+Underfull \hbox (badness 10000) in paragraph at lines 419--421
+
+[171]
+Underfull \hbox (badness 10000) in paragraph at lines 440--447
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 454--463
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active [172]
+Underfull \hbox (badness 10000) in paragraph at lines 481--484
+
+[173]
+Underfull \hbox (badness 10000) in paragraph at lines 527--532
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 543--550
+
+[174]
+Underfull \hbox (badness 10000) in paragraph at lines 568--570
+
+[175]) (./Part3/Bank/1998/Ireland.tex [176]
+Underfull \hbox (badness 10000) in paragraph at lines 14--16
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--33
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--45
+
+[177]
+Underfull \hbox (badness 10000) in paragraph at lines 54--59
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--67
+
+[178]
+Underfull \hbox (badness 10000) in paragraph at lines 103--107
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--132
+
+[179]
+Underfull \hbox (badness 10000) in paragraph at lines 144--147
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--173
+
+[180]
+Underfull \hbox (badness 10000) in paragraph at lines 205--207
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 217--220
+
+[181]
+Underfull \hbox (badness 10000) in paragraph at lines 241--245
+
+[182]) (./Part3/Bank/1998/Japan.tex [183]
+Underfull \hbox (badness 10000) in paragraph at lines 13--19
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--30
+
+[184]
+Underfull \hbox (badness 10000) in paragraph at lines 57--62
+
+[185]
+Underfull \hbox (badness 10000) in paragraph at lines 96--99
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--124
+
+[186] [187]) (./Part3/Bank/1998/Korea.tex [188]
+Underfull \hbox (badness 10000) in paragraph at lines 13--21
+
+
+Package amsmath Warning: Foreign command \over;
+(amsmath)                \frac or \genfrac should be used instead
+(amsmath)                 on input line 32.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--36
+
+[189]
+Underfull \hbox (badness 10000) in paragraph at lines 54--57
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--90
+
+[190]
+Underfull \hbox (badness 10000) in paragraph at lines 96--98
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--126
+
+[191] [192]) (./Part3/Bank/1998/Poland.tex [193]
+Underfull \hbox (badness 10000) in paragraph at lines 16--20
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--48
+
+[194]
+Underfull \hbox (badness 10000) in paragraph at lines 89--92
+
+[195]
+Underfull \hbox (badness 10000) in paragraph at lines 110--114
+
+[196]
+Underfull \hbox (badness 10000) in paragraph at lines 136--140
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--156
+
+[197]
+Underfull \hbox (badness 10000) in paragraph at lines 185--190
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--218
+
+[198] [199]) (./Part3/Bank/1998/Romania.tex [200]
+Underfull \hbox (badness 10000) in paragraph at lines 15--18
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--43
+
+[201]
+Underfull \hbox (badness 10000) in paragraph at lines 56--59
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--86
+
+[202]
+Underfull \hbox (badness 10000) in paragraph at lines 103--109
+
+[203]
+Underfull \hbox (badness 10000) in paragraph at lines 143--153
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--168
+
+[204]
+Underfull \hbox (badness 10000) in paragraph at lines 185--187
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 203--205
+
+[205]
+Underfull \hbox (badness 10000) in paragraph at lines 221--228
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--237
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active [206]
+Underfull \hbox (badness 10000) in paragraph at lines 263--266
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--278
+
+[207]
+Underfull \vbox (badness 4927) has occurred while \output is active [208]
+Underfull \hbox (badness 10000) in paragraph at lines 341--344
+
+[209] [210] [211] [212]
+Underfull \hbox (badness 10000) in paragraph at lines 481--484
+
+[213]
+Underfull \hbox (badness 10000) in paragraph at lines 539--542
+
+[214]
+Underfull \hbox (badness 10000) in paragraph at lines 587--589
+
+[215] [216] [217] [218]) (./Part3/Bank/1998/Russia.tex [219]
+Underfull \hbox (badness 10000) in paragraph at lines 13--18
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--29
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--44
+
+[220]
+Underfull \hbox (badness 10000) in paragraph at lines 51--60
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--71
+
+[221]
+Underfull \hbox (badness 10000) in paragraph at lines 85--94
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--102
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--112
+
+[222]
+Underfull \hbox (badness 10000) in paragraph at lines 137--139
+
+[223]
+Underfull \hbox (badness 10000) in paragraph at lines 160--162
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--180
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 191--194
+
+[224] [225] [226]
+Underfull \hbox (badness 10000) in paragraph at lines 279--284
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 307--312
+
+[227]
+Underfull \hbox (badness 10000) in paragraph at lines 322--324
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 335--339
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 352--353
+
+[228]
+Underfull \hbox (badness 10000) in paragraph at lines 395--405
+
+[229]
+Underfull \hbox (badness 10000) in paragraph at lines 415--418
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 431--436
+
+[230]
+Underfull \hbox (badness 10000) in paragraph at lines 450--455
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 461--465
+
+[231]
+Underfull \hbox (badness 10000) in paragraph at lines 477--479
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 494--501
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 507--514
+
+[232]
+Underfull \hbox (badness 10000) in paragraph at lines 521--526
+
+[233]
+Underfull \hbox (badness 10000) in paragraph at lines 561--564
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 577--583
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 596--599
+
+[234]
+Underfull \hbox (badness 10000) in paragraph at lines 629--633
+
+[235]
+Underfull \hbox (badness 10000) in paragraph at lines 638--642
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 672--679
+
+[236]
+Underfull \hbox (badness 10000) in paragraph at lines 694--700
+
+[237]
+Underfull \hbox (badness 10000) in paragraph at lines 710--719
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 725--729
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 745--748
+
+[238]
+Underfull \hbox (badness 10000) in paragraph at lines 761--769
+
+[239]
+Underfull \hbox (badness 10000) in paragraph at lines 786--793
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 794--798
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 813--820
+
+[240]
+Underfull \hbox (badness 10000) in paragraph at lines 826--836
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 844--851
+
+[241]
+Underfull \hbox (badness 10000) in paragraph at lines 887--891
+
+[242]
+Underfull \hbox (badness 10000) in paragraph at lines 909--918
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 928--932
+
+[243]
+Underfull \hbox (badness 10000) in paragraph at lines 944--953
+
+[244] [245] [246]
+Underfull \hbox (badness 10000) in paragraph at lines 1047--1052
+
+[247]
+Underfull \hbox (badness 10000) in paragraph at lines 1075--1078
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1104--1112
+
+[248]
+Underfull \hbox (badness 10000) in paragraph at lines 1137--1143
+
+[249] [250] [251]
+Underfull \hbox (badness 10000) in paragraph at lines 1217--1219
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1240--1255
+
+[252]
+Underfull \hbox (badness 10000) in paragraph at lines 1264--1266
+
+[253] [254] [255] [256] [257]) (./Part3/Bank/1998/Taiwan.tex [258]
+Underfull \hbox (badness 10000) in paragraph at lines 14--18
+
+[259]
+Underfull \hbox (badness 10000) in paragraph at lines 58--61
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--95
+
+[260]
+Underfull \hbox (badness 10000) in paragraph at lines 108--110
+
+[261]
+Underfull \hbox (badness 10000) in paragraph at lines 138--141
+
+[262]) (./Part3/Bank/1998/Turkey.tex [263]
+Underfull \hbox (badness 10000) in paragraph at lines 16--24
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--31
+
+
+Package amsmath Warning: Foreign command \atop;
+(amsmath)                \frac or \genfrac should be used instead
+(amsmath)                 on input line 52.
+
+[264]
+Underfull \hbox (badness 10000) in paragraph at lines 65--69
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--101
+
+[265]
+Underfull \hbox (badness 10000) in paragraph at lines 108--119
+
+[266]
+Underfull \hbox (badness 10000) in paragraph at lines 126--131
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--139
+
+
+Overfull \hbox (11.05792pt too wide) in paragraph at lines 147--150
+\T1/lmr/m/n/10.53937 This sum counts the num-ber of $\OML/cmm/m/it/10.53937 n$\
+T1/lmr/m/n/10.53937 -tuples $[] \OMS/cmsy/m/n/10.53937 2 \OML/cmm/m/it/10.53937
+ S$ \T1/lmr/m/n/10.53937 such that $\OML/cmm/m/it/10.53937 f[] \OMS/cmsy/m/n/10
+.53937 6^^Q
+[267] [268]) (./Part3/Bank/1998/UK.tex [269]
+Underfull \hbox (badness 10000) in paragraph at lines 13--21
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--57
+
+[270]
+Underfull \hbox (badness 10000) in paragraph at lines 64--69
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--81
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active [271]
+Underfull \hbox (badness 10000) in paragraph at lines 105--110
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--113
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--133
+
+[272]
+Underfull \hbox (badness 10000) in paragraph at lines 141--145
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--163
+
+[273]
+Underfull \hbox (badness 10000) in paragraph at lines 180--182
+
+[274]) (./Part3/Bank/1998/USA.tex [275]
+Underfull \hbox (badness 10000) in paragraph at lines 13--22
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--34
+
+[276]
+Underfull \hbox (badness 10000) in paragraph at lines 53--54
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--82
+
+[277]
+Underfull \hbox (badness 10000) in paragraph at lines 119--122
+
+[278] [279] [280]
+Underfull \hbox (badness 10000) in paragraph at lines 203--212
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--227
+
+[281]
+Underfull \hbox (badness 10000) in paragraph at lines 249--254
+
+[282]) (./Part3/Bank/1998/Vietnam.tex [283]
+Underfull \hbox (badness 10000) in paragraph at lines 14--16
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+
+[284]
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
+
+[285]
+Underfull \hbox (badness 10000) in paragraph at lines 118--119
+
+[286]
+Underfull \hbox (badness 10000) in paragraph at lines 156--158
+
+[287]
+Underfull \hbox (badness 10000) in paragraph at lines 186--188
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--202
+
+[288]
+Underfull \hbox (badness 10000) in paragraph at lines 247--251
+
+[289]) (./Part3/Bank/1998/AsianPacific.tex [290]
+Underfull \hbox (badness 10000) in paragraph at lines 13--20
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--33
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--41
+
+
+Underfull \vbox (badness 3039) has occurred while \output is active [291]
+Underfull \hbox (badness 10000) in paragraph at lines 65--72
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--85
+
+[292] [293]) (./Part3/Bank/1998/AustrianPolish.tex [294]
+Underfull \hbox (badness 10000) in paragraph at lines 15--19
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--41
+
+[295]
+Underfull \hbox (badness 10000) in paragraph at lines 64--66
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--95
+
+[296]
+Underfull \hbox (badness 10000) in paragraph at lines 116--118
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--144
+
+[297]
+Underfull \hbox (badness 10000) in paragraph at lines 163--168
+
+[298]
+Underfull \hbox (badness 10000) in paragraph at lines 199--208
+
+[299]
+Underfull \hbox (badness 10000) in paragraph at lines 227--230
+
+[300]
+Underfull \hbox (badness 10000) in paragraph at lines 268--272
+
+
+Underfull \vbox (badness 2384) has occurred while \output is active [301]
+[302]) (./Part3/Bank/1998/Balkan.tex [303]
+Underfull \hbox (badness 10000) in paragraph at lines 12--14
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--44
+
+[304]
+Underfull \hbox (badness 10000) in paragraph at lines 98--106
+
+[305]
+Underfull \hbox (badness 10000) in paragraph at lines 110--112
+
+[306]) (./Part3/Bank/1998/CzechSlovak.tex [307]
+Underfull \hbox (badness 10000) in paragraph at lines 12--16
+
+[308]
+Underfull \hbox (badness 10000) in paragraph at lines 61--63
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--91
+
+[309]
+Underfull \hbox (badness 10000) in paragraph at lines 129--134
+
+[310] [311]) (./Part3/Bank/1998/Iberoamerican.tex [312]
+Underfull \hbox (badness 10000) in paragraph at lines 14--18
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--33
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--50
+
+[313]
+Underfull \hbox (badness 10000) in paragraph at lines 77--79
+
+[314]
+Underfull \hbox (badness 10000) in paragraph at lines 108--111
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--123
+
+[315] [316]) (./Part3/Bank/1998/Nordic.tex [317]
+Underfull \hbox (badness 10000) in paragraph at lines 12--14
+
+[318]
+Underfull \hbox (badness 10000) in paragraph at lines 62--67
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--86
+
+[319] [320]
+Underfull \hbox (badness 10000) in paragraph at lines 155--159
+
+[321]) (./Part3/Bank/1998/StPetersburg.tex [322]
+Underfull \hbox (badness 10000) in paragraph at lines 12--16
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--23
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--42
+
+[323]
+Underfull \hbox (badness 10000) in paragraph at lines 55--64
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--75
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--91
+
+[324]
+Underfull \hbox (badness 10000) in paragraph at lines 113--120
+
+[325]
+Underfull \hbox (badness 10000) in paragraph at lines 125--128
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--141
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--148
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--162
+
+[326]
+Underfull \hbox (badness 10000) in paragraph at lines 188--190
+
+[327]
+Underfull \hbox (badness 10000) in paragraph at lines 203--210
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 215--217
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 235--240
+
+[328]
+Underfull \hbox (badness 10000) in paragraph at lines 259--262
+
+[329]
+Underfull \hbox (badness 10000) in paragraph at lines 277--282
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--308
+
+[330]
+Underfull \hbox (badness 10000) in paragraph at lines 313--318
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 327--334
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 342--353
+
+[331]
+Underfull \hbox (badness 10000) in paragraph at lines 358--361
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 372--376
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 383--384
+
+[332]
+Underfull \hbox (badness 10000) in paragraph at lines 389--394
+
+[333]
+Underfull \hbox (badness 10000) in paragraph at lines 452--462
+
+[334]
+Underfull \hbox (badness 10000) in paragraph at lines 478--482
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 491--497
+
+
+Overfull \hbox (32.68132pt too wide) in paragraph at lines 491--497
+\OML/cmm/m/it/10.53937 A[]A[]; B[]B[]; C[]C[]$ \T1/lmr/m/n/10.53937 are equal, 
+the same cir-cle is also tan-gent to $\OML/cmm/m/it/10.53937 B[]B[]; B[]B[]; C[
+]C[]; C[]C[]$\T1/lmr/m/n/10.53937 .
+[335]
+Underfull \hbox (badness 10000) in paragraph at lines 507--511
+
+[336]
+Underfull \hbox (badness 10000) in paragraph at lines 550--556
+
+[337] [338]) (./Part3/Bank/1999/Belarus.tex [339] [340] [341] [342] [343]
+[344] [345]) (./Part3/Bank/1999/Brazil.tex [346] [347])
+(./Part3/Bank/1999/Bulgaria.tex [348] [349] [350])
+(./Part3/Bank/1999/Canada.tex [351] [352]) (./Part3/Bank/1999/China.tex
+[353] [354]) (./Part3/Bank/1999/Czech.tex [355] [356] [357])
+(./Part3/Bank/1999/France.tex [358] [359]) (./Part3/Bank/1999/Hungary.tex
+[360] [361] [362]) (./Part3/Bank/1999/Iran.tex [363] [364] [365] [366])
+(./Part3/Bank/1999/Ireland.tex [367] [368] [369]) (./Part3/Bank/1999/Italy.tex
+[370] [371] [372]) (./Part3/Bank/1999/Japan.tex [373] [374])
+(./Part3/Bank/1999/Korea.tex [375] [376]) (./Part3/Bank/1999/Poland.tex
+[377] [378]) (./Part3/Bank/1999/Romania.tex [379] [380] [381] [382] [383]
+[384] [385]) (./Part3/Bank/1999/Russia.tex [386] [387] [388] [389] [390]
+[391] [392] [393]) (./Part3/Bank/1999/Taiwan.tex [394] [395])
+(./Part3/Bank/1999/Turkey.tex [396] [397] [398]) (./Part3/Bank/1999/UK.tex
+[399] [400] [401]) (./Part3/Bank/1999/USA.tex [402] [403])
+(./Part3/Bank/1999/Vietnam.tex [404] [405] [406] [407])
+(./Part3/Bank/1999/AsianPacific.tex [408] [409])
+(./Part3/Bank/1999/AustrianPolish.tex [410] [411] [412] [413])
+(./Part3/Bank/1999/Balkan.tex [414] [415]) (./Part3/Bank/1999/CzechSlovak.tex
+[416] [417]) (./Part3/Bank/1999/HongKong.tex [418] [419])
+(./Part3/Bank/1999/Iberoamerican.tex [420] [421]) (./Part3/Bank/1999/Mayo.tex
+[422] [423]) (./Part3/Bank/1999/StPetersburg.tex [424] [425] [426] [427])))
+(./advanced.tex [428] (./Part4/algebra.tex)) (./proficient.tex [429] [430]
+(./Part5/algebra.tex)) [431] (./alter_ego.bbl (./alter_ego.brf)
+
+Package natbib Warning: Empty `thebibliography' environment on input line 3.
+
+) [432] (./alter_ego.acr) [433] (./alter_ego.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ )
+(see the transcript file for additional information)
+Output written on alter_ego.pdf (445 pages).
+Transcript written on alter_ego.log.
